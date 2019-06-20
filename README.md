@@ -10,6 +10,12 @@ this util can be do the followings:
 
 and do it all the pdf files in the first folder
 
+Dependency:
+PDFsharp Nuget
+https://www.nuget.org/packages/PDFsharp/1.50.5147
+www.pdfsharp.net/
+
+
 createdby:
 Lajos Kammel
 2019
